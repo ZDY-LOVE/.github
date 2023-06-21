@@ -1,32 +1,13 @@
-## Hi there 👋
+### ZDY ' LOVE
+
+🌈做一个自己的全家桶！
 
 <div class="container" align="center" width="50%">
 
+
+                                                                                                                                                         
+                                                                               
   
-</div>
-
-<div class="container" width="50%">
-   
-   [![Zhai.PictureView](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.PictureView)](https://github.com/ZDY-LOVE/Zhai.PictureView)
-   
-</div>
-
-<div class="container" width="50%">
-
-   [![Zhai.VideoView](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.VideoView)](https://github.com/ZDY-LOVE/Zhai.VideoView)
-
-</div>
-
-<div class="container" width="50%">
-
-   [![Zhai.Renamer](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.Renamer)](https://github.com/ZDY-LOVE/Zhai.Renamer)
-
-</div>
-
-<div class="container" width="50%">
-
-   [![Zhai.ScreenCapturer](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.ScreenCapturer)](https://github.com/ZDY-LOVE/Zhai.ScreenCapturer)
-
 </div>
 
 <!--
