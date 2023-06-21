@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+<div class="container" align="center">
+
+   [![Zhai.PictureView](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.PictureView)](https://github.com/ZDY-LOVE/Zhai.PictureView)
+
+   [![Zhai.VideoView](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.VideoView)](https://github.com/ZDY-LOVE/Zhai.VideoView)
+
+   [![Zhai.Renamer](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.Renamer)](https://github.com/ZDY-LOVE/Zhai.Renamer)
+
+   [![Zhai.ScreenCapturer](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.ScreenCapturer)](https://github.com/ZDY-LOVE/Zhai.ScreenCapturer)
+  
+</div>
+
 <!--
 
 **Here are some ideas to get you started:**
