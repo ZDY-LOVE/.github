@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div class="container" align="center">
+<div class="container" align="center" style="width: 50%;">
 
    [![Zhai.PictureView](https://github-readme-stats.vercel.app/api/pin/?username=ZDY-LOVE&repo=Zhai.PictureView)](https://github.com/ZDY-LOVE/Zhai.PictureView)
 
